@@ -1,5 +1,5 @@
 # Sequence Logo (block style with axes)
-Sequence Logo - block style with axes (native Java Script) is an alternative that gives full control over how the graphics should look like. All the inner workings of this open source application are written in native javascript. The application is independent of the internet once it is saved as a html file on the PC/Mobile phone. As input it requires a set of motif sequences, whereas the output is an image that shows the Sequence Logo.
+Sequence Logo - block style with axes (native Java Script) is an alternative that gives full control over how the graphics should look like. All the inner workings of this open source application are written in native javascript. The application is independent of the internet once it is saved as a html file on the PC/Mobile phone. As input it requires a set of motif sequences, whereas the output is an image that shows the Sequence Logo./
 
 Live demo: https://gagniuc.github.io/Sequence-Logo-block-style-with-axes/
 
